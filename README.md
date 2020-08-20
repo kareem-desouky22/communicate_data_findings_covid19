@@ -14,9 +14,9 @@ There is some preprossing and data cleaning done on the data
 ## Summary of Findings
 
 1 - Cases and deaths has strong relation <br>
-2- Cases and deaths in some countries has weak relation that mean some countries like USA and Qatar have good medical care system 
-3- Population number important factor to determine the percentage of the country infection
-4-Egypt in a good situation till now
+2- Cases and deaths in some countries has weak relation that mean some countries like USA and Qatar have good medical care system <br>
+3- Population number important factor to determine the percentage of the country infection <br>
+4-Egypt in a good situation till now <br>
 
 
 ## Key Insights for Presentation
