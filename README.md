@@ -21,4 +21,5 @@ There is some preprossing and data cleaning done on the data
 
 ## Key Insights for Presentation
 
+covid-19 virus curve step down specially in africa and asia continent <br>
 >To improve my presentation i want to add graph for cases and deaths predictions to any country and im working on it
